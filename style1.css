@@ -1,0 +1,51 @@
+
+body {
+    background-color: teal;
+}
+
+table {
+    border-collapse: collapse;
+    
+    
+}
+
+tr {
+    border-style: outset;
+    border-collapse: collapse;
+    font-weight: bolder;
+    
+}
+
+h1 {
+    color: black;
+}
+
+th {
+    border-collapse: collapse;
+    background-color: white;
+    color: red;
+    
+}
+
+button {
+    font-weight: 800;
+    border-radius: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family:monospace;
+    font-size: 30px;
+    background-color:teal ;
+    padding: 20px;
+    border-style: solid;
+    border-radius: 10px;
+    height: 10px;
+    
+}
+
+a:hover {
+    color: aqua;
+}

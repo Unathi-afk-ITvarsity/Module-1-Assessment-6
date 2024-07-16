@@ -1,0 +1,27 @@
+li {
+    list-style: none;
+    display: inline;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: aqua;  
+}
+
+#pic {
+    display:inline-flex;
+    
+}
+
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.dlYDDCGWKgKoRXjpR8UWEwHaEc?pid=ImgDet&w=474&h=284&rs=1);
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+a :hover {
+    color: brown;
+}
